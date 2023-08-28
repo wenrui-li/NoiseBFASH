@@ -1,5 +1,5 @@
 # NoiseBFASH
-This repository contains code supporting the text "Graph-guided Bayesian Factor Model for Integrative Analysis of Multi-modal Data with Noisy Network Information"
+This repository contains code supporting the text "Graph-guided Bayesian Factor Model for Integrative Analysis of Multi-modal Data with Noisy Network Information".
 
  
 
